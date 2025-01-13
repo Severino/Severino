@@ -6,6 +6,4 @@
     + Games
     + Crypto
     + AI
-- 🌱 I’m currently learning:
-    + TensorFlow
-    + Blockchain
+
